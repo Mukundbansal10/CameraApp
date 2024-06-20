@@ -29,7 +29,7 @@ There's no installation required for this web app. Simply visit the [live demo](
 
 1. Open the [Camera App](https://mukundbansal10.github.io/CameraApp/) in your web browser.
 2. Allow camera access when prompted.
-3. Use the provided buttons to capture images or video.
+3. Use the provided buttons to capture images.
 
 ## Contributing
 
