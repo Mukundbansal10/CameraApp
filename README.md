@@ -1,7 +1,5 @@
 # Camera App
 
-![Camera App Screenshot](screenshot.png)
-
 ## Description
 
 This Camera App project is developed using HTML, CSS, JavaScript, and a JavaScript library for camera functionality. It features a minimalist design with a black background and white hover buttons. The app allows users to interact with the camera directly from their web browser.
