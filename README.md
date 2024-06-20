@@ -2,7 +2,7 @@
 
 ## Description
 
-This Camera App project is developed using HTML, CSS, JavaScript, and a JavaScript library for camera functionality. It features a minimalist design with a black background and white hover buttons. The app allows users to interact with the camera directly from their web browser.
+This Camera App project is developed using HTML, CSS, JavaScript, and utilizes the `webcam-easy` library for camera functionality. It features a minimalist design with a black background and white hover buttons. The app allows users to interact with the camera directly from their web browser.
 
 ## Live Demo
 
@@ -19,7 +19,7 @@ Try the app live at: [Camera App Demo](https://mukundbansal10.github.io/CameraAp
 - HTML
 - CSS
 - JavaScript
-- [Library Name]
+- [webcam-easy Library](https://unpkg.com/webcam-easy@1.1.1/dist/webcam-easy.min.js)
 
 ## Installation
 
